@@ -6,15 +6,15 @@ const textoResultado = document.querySelector(".texto-resultado");
 
 const perguntas = [
     {
-        enunciado: "Quando você tem um tempo livre, o que prefere fazer?",
+        enunciado: "Qual tipo de ambiente de trabalho você prefere?",
         alternativas: [
             {
-                texto: "Utilizando palestras para prevenir o cyberbullying nas escolas.",
-                afirmacao: "Você é uma pessoa reflexiva e busca aprendizado e conhecimento."
+                texto: "Um lugar estável, com rotina clara e poucas mudanças.",
+                afirmacao: "Pessoa que valoriza segurança, previsibilidade e organização. Costuma ser responsável, leal e prefere ter controle sobre as situações."
             },
             {
-                texto:  "Prestando atenção aos sinais de cyberbullying nas escolas.",
-                afirmacao: "Você é uma pessoa observadora, pois se preocupa com o bem estar dos seus alunos."
+                texto:  "Um ambiente dinâmico, com desafios constantes e mudanças frequentes",
+                afirmacao: "Pessoa adaptável, criativa e que gosta de se reinventar. Prefere ambientes que ofereçam crescimento e não se intimida com o inesperado.."
             }    
            
         ]
