@@ -35,7 +35,7 @@ const perguntas = [
             ]
         },
         {
-            enunciado: "Você prefere trabalhar em um ambiente"
+            enunciado: "Você prefere trabalhar em um ambiente",
 
             alternativas: [
                 {
