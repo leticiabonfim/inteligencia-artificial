@@ -35,17 +35,17 @@ const perguntas = [
             ]
         },
         {
-            enunciado: "Hoje em dia é cada vez mais importante conhecer o seu corpo, suas qualidades, suas limitações e entender suas emoções. Saber controlá-las é o desafio das pessoas. A sua auto-estima impacta a sua qualidade de vida?",
+            enunciado: "Você prefere trabalhar em um ambiente"
 
             alternativas: [
                 {
-                    texto: "Na maior parte do tempo, com certeza impacta, pois é a partir da autoestima que temos um olhar positivo ou negativo sobre nossas ações diárias. Sempre estou em busca de mais autoconhecimento.",
-                    afirmacao: "Você tem consciência que é importante ter uma boa auto-estima e procura se aprofundar mais sobre o assunto, vendo a vida de um jeito positivo."
+                    texto: "Estruturado e previsível",
+                    afirmacao: "Gosta de rotina, segurança e planejamento. Prefere seguir regras claras e ter controle sobre o que está por vir. Ideal para carreiras como administração, contabilidade, jurídico."
                 },
                 {
-                    texto:    "Apenas ocasionalmente ou raramente. Às vezes minha autoestima oscila e isso pode afetar negativamente minha qualidade de vida em certas ocasiões.",
+                    texto:    "Dinâmico e em constante mudança",
                
-                    afirmacao: "Você demomostra que precisa se conhecer mais e mostra uma consciência de uma crescente necessidade de cuidar mais da própria percepção e bem-estar emocional."
+                    afirmacao: "Se adapta facilmente, busca desafios e novidades. Prefere ambientes criativos, com mudanças frequentes. Ideal para áreas como marketing, startups, eventos."
                 }    
                
             ]
