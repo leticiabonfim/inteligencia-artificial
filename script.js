@@ -21,15 +21,15 @@ const perguntas = [
     },
     {
        
-            enunciado: "O que mais te atrai em uma pessoa?",
+            enunciado: "Confia na intuição e age rapidamente",
             alternativas: [
                 {
-                    texto: "A energia geotérmica precisa ser mais explorada visto que utiliza o calor interno da terra, pois não depende do clima e é inesgotável.",
-                    afirmacao: "Você demonstra um perfil  de pesquisador e inovador que busca por meio da inovação soluções para o meio ambiente e sustentabilidade das gerações posteriores."
+                    texto: "Analisa com calma e pesquisa antes de agir",
+                    afirmacao: "Pessoa analítica, detalhista e cautelosa. Valoriza a lógica e a informação. Provavelmente se destaca em áreas técnicas ou estratégicas."
                 },
                 {
-                    texto:  "Seria interessante explorar primeiramente fontes renováveis exotérmicas, em segundo plano utilizar a energia geotérmica apesar dos custos elevados de explorações e possibilidades de contaminação de rios. ",
-                    afirmacao: "Você é uma pessoa que dá ênfase em priorizar os recursos disponíveis, pensando no meio ambiente e sem descartar o viés econômico."
+                    texto:  "Confia na intuição e age rapidamente ",
+                    afirmacao: "Pessoa prática, impulsiva e com espírito de liderança. Tende a ser mais emocional e confiante. Pode se destacar em ambientes que exigem decisões rápidas, como vendas ou gestão de crises."
                 }    
                
             ]
